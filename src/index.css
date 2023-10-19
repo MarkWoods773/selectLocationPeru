@@ -1,0 +1,12 @@
+@import url('../node_modules/simpledotcss/simple.min.css');
+.cardFlex{
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
